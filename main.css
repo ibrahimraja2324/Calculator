@@ -1,0 +1,60 @@
+
+.calc-container {
+    border: 2px solid black;
+    width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#display {
+    border: 2px solid black;
+    padding: 20px;
+    flex: 1;
+}
+
+.input-values {
+    border: 2px solid black;
+    
+}
+
+.input-values div{
+    border: 2px solid black;
+    display: flex;
+}
+
+.input-values div button{
+    border: 2px solid black;
+    padding: 10px;
+    flex: 1;
+    font-weight: 900;
+}
+
+/* First Row */
+.first-row {
+
+}
+
+.delete {
+    
+}
+
+.clear {
+
+}
+
+/* Second Row */
+.second-row {
+
+}
+
+.nine {}
+
+
+
+
+
+
+/* third Row */
+/* fourth Row */
+/* fifth Row */
